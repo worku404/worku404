@@ -125,6 +125,9 @@
 ## &#128231; Connect With Me
 
 <p align="center">
+   <a href="https://gold-portfolio-sigma.vercel.app/" target="_blank" rel="noopener noreferrer">
+    Portfolio
+  </a>
   <a href="mailto:accworku@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email%20Primary-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email" />
   </a>
