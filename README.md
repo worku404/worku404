@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/Stack-Django%20%7C%20DRF%20%7C%20Channels%20%7C%20Redis-0A66C2?style=flat-square" alt="worku-lms stack" />
       </p>
       <p>
-        <a href="https://github.com/worku404/worku-lms">
+        <a href="https://nextgen.southafricanorth.cloudapp.azure.com/">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="worku-lms repository" />
         </a>
       </p>
